@@ -1,1 +1,1 @@
-Hello, this is a GIT lesson.
+Hello, this is a GIT lesson. Second test.
