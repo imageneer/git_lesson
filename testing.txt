@@ -6,3 +6,4 @@ And this is line number 5.
 Adding line 6 from the desktop.
 
 Another set of lines here for a branch
+Another update, this time written from a branch
