@@ -1,5 +1,5 @@
 Hello, this is just a plain text file to play with git.
-
+I've added line number 2 for the second commit.
 This is line number 3.
 
 And this is line number 5.
