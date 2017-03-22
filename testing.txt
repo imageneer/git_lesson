@@ -4,3 +4,5 @@ This is line number 3. Combined some text to line 3 from desktop and GitHub.
 Line number 4 added for GitHub direct commit.
 And this is line number 5.
 Adding line 6 from the desktop.
+
+Another set of lines here for a branch
